@@ -22,7 +22,8 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 ### Reinforcement Learning Projects
 - **[N-Armed bandit problem](https://bitbucket.org/mojtaba-nourani/rl-n-arm-bandit/src/master/)**  
   Developed in Matlab, this project compares action selection methodologies to optimize the balance between exploration and exploitation in a multi-armed bandit problem, where repeated choices among n actions yield rewards from action-dependent stationary probability distributions.
-  Andrew, B. and Richard S, S., 2018. Reinforcement learning: an introduction. Page 25.
+  
+  The RL book: Andrew, B. and Richard S, S., 2018. Reinforcement learning: an introduction. Page 25.
 - **[The Gambler's problem](https://bitbucket.org/mojtaba-nourani/rl-gambler-problem/src/master/)**  
   This project models a gambler betting on coin flips as a finite MDP, aiming to maximize the probability of reaching $100 through optimal stake selection, solved via value iteration for a given heads probability (e.g., ph = 0.4). The RL book (above), Page 84. PS: I argue that this implementation is the most compact solution you can find on the web.
 - **[The Grid World's problem](https://bitbucket.org/mojtaba-nourani/rl-deterministic-grid-world/src/master/)**  
