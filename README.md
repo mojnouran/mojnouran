@@ -20,7 +20,7 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
   Patent-pending system optimizing energy extraction from salt gradient solar ponds, implemented with simulation tools.
   
 ### Reinforcement Learning Projects
-- **[N-Armed bandit problem]([https://google.com](https://bitbucket.org/mojtaba-nourani/rl-n-arm-bandit/src/master/)**  
+- **[N-Armed bandit problem](https://bitbucket.org/mojtaba-nourani/rl-n-arm-bandit/src/master/)**  
   Developed in Matlab, this project compares action selection methodologies to optimize the balance between exploration and exploitation in a multi-armed bandit problem, where repeated choices among n actions yield rewards from action-dependent stationary probability distributions.
   Andrew, B. and Richard S, S., 2018. Reinforcement learning: an introduction. Page 25.
 - **[The Gambler's problem](https://bitbucket.org/mojtaba-nourani/rl-gambler-problem/src/master/)**  
