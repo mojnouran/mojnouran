@@ -9,15 +9,20 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 
 ### Deep Learning Projects
 - **[Interpretable Deep Neuro-Fuzzy Networks](https://google.com)**  
-  Developed using PyTorch, this project focuses on transparent deep learning models for monitoring and control systems. Part of my PhD dissertation.
+  Developed using PyTorch, this project focuses on transparent deep learning models for monitoring and control systems. 
 - **[Gradient Vanishing and Privacy-Interpretability Trade-off in ANFIS](https://google.com)**  
-  Research exploring adaptive neuro-fuzzy inference systems, with applications in federated learning.
+  Research exploring adaptive neuro-fuzzy inference systems, with applications in federated learning. Part of my PhD dissertation. Email me and I'll send you fully reproducible codes, public datasets and the papers as soon as they become available online.
 
 ### Control Systems Tools
 - **[Boundary and Optimal H∞ Controller Design](https://google.com)**  
   Tools for distributed parameter systems, applied to solar ponds for energy efficiency. Based on my MSc thesis (Grade: 100/100).
 - **[Automatic Control of Salinity Profile in Solar Ponds](https://google.com)**  
   Patent-pending system optimizing energy extraction from salt gradient solar ponds, implemented with simulation tools.
+### Reinforcement Learning Projects
+- **[Interpretable Deep Neuro-Fuzzy Networks](https://google.com)**  
+  Developed using PyTorch, this project focuses on transparent deep learning models for monitoring and control systems. Part of my PhD dissertation.
+- **[Gradient Vanishing and Privacy-Interpretability Trade-off in ANFIS](https://google.com)**  
+  Research exploring adaptive neuro-fuzzy inference systems, with applications in federated learning.
 
 ### Research Publications
 - **[Gradient Vanishing, Autoencoder Initialization and Privacy-Interpretability Trade-off in Adaptive Neuro-Fuzzy Inference Systems](https://google.com)**  
