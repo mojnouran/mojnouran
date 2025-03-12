@@ -41,10 +41,6 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 - **[Robust Controller Design for Solar Ponds](https://google.com)**  
   Presented at the 6th National Congress of Strategic Research on Chemical Engineering, 2020.
 
-### Computer Vision and Autonomous Systems
-- **[Ongoing Project on Robotic Navigation using ROS and OpenCV]()**  
-  In progress, exploring image/video data applications for autonomous systems.
-
 ---
 
 ## 📚 Conference Presentations and Workshops
