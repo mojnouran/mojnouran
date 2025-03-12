@@ -37,13 +37,6 @@ Accumulated reward for an FMDP (Refer to page 52 of the RL book)
 - **[Random Walk](https://bitbucket.org/mojtaba-nourani/rl-random-walk/src/master/)**  
 Estimating the value function based on Temporal difference and Monte Carlo tree search. Page 125 of the RL book (above)
 
-### Research Publications
-- **[Gradient Vanishing, Autoencoder Initialization and Privacy-Interpretability Trade-off in Adaptive Neuro-Fuzzy Inference Systems](https://google.com)**  
-  Under review, IEEE Transactions on Artificial Intelligence.
-- **[Automatic Control of Salt Gradient Solar Ponds](https://google.com)**  
-  To be submitted upon patent publication.
-- **[Robust Controller Design for Solar Ponds](https://google.com)**  
-  Presented at the 6th National Congress of Strategic Research on Chemical Engineering, 2020.
 
 ---
 
