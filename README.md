@@ -17,11 +17,6 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 - **[Explainable CNN](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
   Deep Convolutional Neural Networks with explainable gradient monitoring for interpretability and feature map analysis. The code derived from the Paper Yeganejou, M., Dick, S. and Miller, J., 2019. Interpretable deep convolutional fuzzy classifier. IEEE transactions on fuzzy systems, 28(7), pp.1407-1419.
 
-### Control Systems Tools
-- **[Boundary and Optimal H∞ Controller Design](https://google.com)**  
-  Tools for distributed parameter systems, applied to solar ponds for energy efficiency. Based on my MSc thesis (Grade: 100/100).
-- **[Automatic Control of Salinity Profile in Solar Ponds](https://google.com)**  
-  Patent-pending system optimizing energy extraction from salt gradient solar ponds, implemented with simulation tools.
   
 ### Reinforcement Learning Projects
 - **[N-Armed bandit problem](https://bitbucket.org/mojtaba-nourani/rl-n-arm-bandit/src/master/)**  
