@@ -15,7 +15,7 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 - **[LSTM Autoencoders](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
   Long Short-Term Memory autoencoder architectures with customized memory cells for sequential data processing. Complete MATLAB implementation with manual backpropagation.
 - **[Explainable CNN](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
-  Deep Convolutional Neural Networks with explainable gradient monitoring for interpretability and feature map analysis. Hand-coded in MATLAB.
+  Deep Convolutional Neural Networks with explainable gradient monitoring for interpretability and feature map analysis. The code derived from the Paper Yeganejou, M., Dick, S. and Miller, J., 2019. Interpretable deep convolutional fuzzy classifier. IEEE transactions on fuzzy systems, 28(7), pp.1407-1419.
 
 ### Control Systems Tools
 - **[Boundary and Optimal H∞ Controller Design](https://google.com)**  
