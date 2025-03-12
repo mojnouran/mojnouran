@@ -1,7 +1,7 @@
 # Hi, I'm Mojtaba!  
 ### [<a href="https://github.com/mojnouran">Electrical Engineer</a>], [<a href="https://www.linkedin.com/in/mojtaba-nourani/">Researcher in Control Theory and Deep Learning</a>]
 
-Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy Logic.
+Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy Logic. Here you will find some basic NN and RL algorithms as well as some basic paradigms of control theory that might prove useful in your projects
 
 ---
 
