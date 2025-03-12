@@ -9,7 +9,7 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 
 ### Deep Learning Projects
 - **[Interpretable Deep Neuro-Fuzzy Networks](https://google.com)**  
-  Developed using PyTorch, this project focuses on transparent deep learning models for monitoring and control systems. 
+  Developed using PyTorch and Matlab, these projects focus on transparent deep learning models for monitoring and control systems. Base codes are public.
 - **[Gradient Vanishing and Privacy-Interpretability Trade-off in ANFIS](https://google.com)**  
   Research exploring adaptive neuro-fuzzy inference systems, with applications in federated learning. Part of my PhD dissertation. Email me and I'll send you fully reproducible codes, public datasets and the papers as soon as they become available online.
 
