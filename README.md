@@ -7,11 +7,15 @@ Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy L
 
 ## 👨‍💻 Research and Development Projects
 
-### Deep Learning Projects
-- **[Interpretable Deep Neuro-Fuzzy Networks](https://google.com)**  
-  Developed using PyTorch and Matlab, these projects focus on transparent deep learning models for monitoring and control systems. Base codes are public.
-- **[Gradient Vanishing and Privacy-Interpretability Trade-off in ANFIS](https://google.com)**  
-  Research exploring adaptive neuro-fuzzy inference systems, with applications in federated learning. Part of my PhD dissertation. Email me and I'll send you fully reproducible codes, public datasets and the papers as soon as they become available online.
+### Deep Learning Projects with Manual Backpropagation
+- **[Advanced Autoencoder Implementations](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
+  Autoencoders with flexible neurons, RBF neurons and dropout, and design of robust autoencoders. Developed using MATLAB with manual backpropagation.
+- **[Recurrent Neural Networks](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
+  Elman and Jordan Autoencoders with separate dense layers, and hybrid architectures combining Elman/Jordan feedback mechanisms. Implemented from scratch in MATLAB.
+- **[LSTM Autoencoders](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
+  Long Short-Term Memory autoencoder architectures with customized memory cells for sequential data processing. Complete MATLAB implementation with manual backpropagation.
+- **[Explainable CNN](https://github.com/mojnouran/Basic_Neural_Net_ManualBP)**  
+  Deep Convolutional Neural Networks with explainable gradient monitoring for interpretability and feature map analysis. Hand-coded in MATLAB.
 
 ### Control Systems Tools
 - **[Boundary and Optimal H∞ Controller Design](https://google.com)**  
