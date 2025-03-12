@@ -48,9 +48,9 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 ---
 
 ## 📚 Conference Presentations and Workshops
-- **[Workshop on Advanced Topics in Fuzzy Logic](https://google.com)**  
+- **[Workshop on Advanced Topics in Fuzzy Logic](https://github.com/mojnouran/Conf_Lectures)**  
   Joint Congress on Computational Intelligence (CCI) 2020.
-- **[Workshop on Artificial Intelligence Tools for Decision Making](https://google.com)**  
+- **[Workshop on Artificial Intelligence Tools for Decision Making](https://github.com/mojnouran/Conf_Lectures)**  
   CCI 2020.
 
 ---
