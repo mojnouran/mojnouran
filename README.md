@@ -1,7 +1,8 @@
-# Hi, I'm Mojtaba!  
+# Mojtaba Nourani
 ### [<a href="https://github.com/mojnouran">Electrical Engineer</a>], [<a href="https://www.linkedin.com/in/mojtaba-nourani/">Researcher in Control Theory and Deep Learning</a>]
 
-* Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy Logic. Here you will find some basic NN and RL algorithms as well as some basic paradigms of control theory that might prove useful in your projects *
+* Electrical Engineer with expertise in Control Theory, Deep Learning, and Fuzzy Logic. Here you will find some basic NN and RL algorithms as well as some basic paradigms of control theory that might prove useful in your projects
+* [Curriculum Vitae]
 ---
 
 ## Research and Development Projects
@@ -34,7 +35,7 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 
 ---
 
-## 📚 Conference Presentations and Workshops
+## Conference Presentations and Workshops
 - **[Workshop on Advanced Topics in Fuzzy Logic](https://github.com/mojnouran/Conf_Lectures)**  
   Joint Congress on Computational Intelligence (CCI) 2020.
 - **[Workshop on Artificial Intelligence Tools for Decision Making](https://github.com/mojnouran/Conf_Lectures)**  
@@ -42,7 +43,7 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 
 ---
 
-## 🤳 Connect with me
+## Connect with me
 
 [<img align="left" alt="Mojtaba Nourani | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 [<img align="left" alt="Mojtaba Nourani | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -50,3 +51,4 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 [github]: https://github.com/mojnouran  
 [linkedin]: https://www.linkedin.com/in/mojtaba-nourani/  
 [email]: mailto:nourani@ieee.org  
+[curriculum vitae]:https://github.com/mojnouran/cv/releases/download/v1.0/Nourani.Mojtaba.cv.pdf
