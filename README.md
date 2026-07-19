@@ -44,9 +44,7 @@ Estimating the value function based on Temporal difference and Monte Carlo tree 
 ---
 
 ## Connect with me
-
-[<img align="left" alt="Mojtaba Nourani | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
-[<img align="left" alt="Mojtaba Nourani | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[Email]
 
 [github]: https://github.com/mojnouran  
 [linkedin]: https://www.linkedin.com/in/mojtaba-nourani/  
